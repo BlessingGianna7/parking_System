@@ -1,4 +1,4 @@
-# 🚗 Automated Parking Management System
+# Automated Parking Management System
 
 Parking system using YOLOv8 license plate detection and Arduino gate automation. Built as a **High School Capstone Project** for Rwanda Coding Academy.
 
